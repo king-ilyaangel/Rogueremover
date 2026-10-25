@@ -214,4 +214,4 @@ RogueRemover is the full free version with all features and updates included. Th
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-24 22:59:42 UTC
+**Last updated:** 2026-10-25 01:02:04 UTC
